@@ -1,4 +1,4 @@
-
+ababab
 aabb
 abab
 aaddcc
